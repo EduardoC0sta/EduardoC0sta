@@ -30,7 +30,7 @@ Olá! Me chamo Eduardo Costa, tenho 20 anos, sou de Salvador Bahia, estudante de
 
 ### Estátisticas:
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoC0sta&show_icons=true&count_private=true&hide_border=true&title_color=fe176c&icon_color=fe176c&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Costa github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoC0sta&layout=compact&hide_border=true&title_color=fe176c&text_color=26a64d&bg_color=0d1117" />
+<div>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoC0sta&show_icons=true&theme=dark&count_private=true&hide_border=true&" alt="Eduardo Costa github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoC0sta&layout=compact&hide_border=true&theme=dark" />
 </div>
