@@ -1,16 +1,33 @@
-## Hi there 👋
+# Eduardo Costa ✌🤘
 
-<!--
-**EduardoC0sta/EduardoC0sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-End`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Eduardo Costa, tenho 20 anos, sou de Salvador Bahia, estudante de programação Front-End no SENAI CIMATEC. Atualmente estou aprendendo HTML, CSS e JavaScript. Aqui compartilho projetos e práticas do meu aprendizado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Liguagens e Conhecimentos 
+
+ <img 
+ aling="left"
+ alt="HTML"
+ title="CSS"
+ widith="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+  <img
+ aling="left"
+ alt="HTML"
+ title="CSS"
+ widith="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+  <img
+ aling="left"
+ alt="HTML"
+ title="CSS"
+ widith="30px"
+ style="padding-right: 10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
