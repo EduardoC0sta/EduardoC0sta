@@ -9,43 +9,28 @@ Olá! Me chamo Eduardo Costa, tenho 20 anos, sou de Salvador Bahia, estudante de
 ### Liguagens e Conhecimentos 
 
  <img 
-    aling="left"
     alt="HTML"
-    title="CSS"
-    widith="30px"
+    title="HTML"
+    height="30px"
     style="padding-right; 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
   <img
-    aling="left"
-    alt="HTML"
+    alt="CSS"
     title="CSS"
-    widith="30px"
+    height="30px"
     style="padding-right; 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
   <img
-    aling="left"
-    alt="HTML"
-    title="CSS"
-    widith="30px"
+    alt="JavaScript"
+    title="JavaScript"
+    height="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<br/>
 <br/>
 
 ### Estátisticas:
 
-<img
-    aling="center"
-    alt="Github Stats"
-    height="200"
-    Style="padding-right: 10px;"
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoC0sta&show_icons=true&theme=dark&include_all_comits=true&locale=pt-br)"/>
-
-<img
-    aling="center"
-    alt="Github Stats"
-    height="200"
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoC0sta&show_icons=true&theme=dark&locale=pt-br)"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EduardoC0sta&show_icons=true&count_private=true&hide_border=true&title_color=fe176c&icon_color=fe176c&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Costa github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoC0sta&layout=compact&hide_border=true&title_color=fe176c&text_color=26a64d&bg_color=0d1117" />
+</div>
