@@ -6,7 +6,7 @@ Olá! Me chamo Eduardo Costa, tenho 20 anos, sou de Salvador Bahia, estudante de
 
 ---
 
-### Liguagens e Conhecimentos 
+### Languages and Frameworks 
 
  <img 
     alt="HTML"
@@ -27,6 +27,15 @@ Olá! Me chamo Eduardo Costa, tenho 20 anos, sou de Salvador Bahia, estudante de
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br/>
+
+Font-End
+  <img
+    alt="Angular"
+    title="Angular"
+    height="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" />
+
 
 ### Estátisticas:
 
